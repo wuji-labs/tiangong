@@ -1,0 +1,25 @@
+# Dependencies (pnpm workspace symlink — not needed in standalone repo)
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python (benchmark scripts)
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build / env
+dist/
+build/
+.env
+.env.local
+*.log
+.vercel
+
+# internal strategy scaffolding — not for public repo
+STRATEGY.md

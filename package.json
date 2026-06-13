@@ -1,0 +1,27 @@
+{
+  "name": "@labs-skills/tiangong",
+  "version": "2.1.0",
+  "description": "天工 — 华夏美学设计框架（WUJI Labs 开源 skill，MIT）",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'design framework — no build'",
+    "clean": "echo 'clean'"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "README.zh-CN.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    ".claude-plugin/",
+    "commands/",
+    "examples/",
+    "reference/",
+    "codex/",
+    "cursor/",
+    "kiro/",
+    "scripts/",
+    "benchmark/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tiangong-skills",
+  "description": "TianGong — Heaven's Craft. Design with the other half of human aesthetic civilization: Chinese aesthetics as a complete system, after Xie He, Laozi, and the Ten Classics.",
+  "owner": {
+    "name": "WUJI",
+    "email": "okeah631@gmail.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "tiangong",
+      "description": "TianGong — read the nature of the thing, build the bones, restrain the color, breathe spirit into it.",
+      "version": "2.1.0",
+      "source": "./",
+      "author": {
+        "name": "WUJI",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}

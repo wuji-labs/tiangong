@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "color",
+    "name": "Restrain the Rainbow Fintech Palette",
+    "description": "GROUND TRUTH (not shown to agent): The nature (性) of a personal-finance product is stability and trust, not excitement. The correct response restrains the palette to 2-3 functional colors, establishes hierarchy in greyscale FIRST (墨分五色), and rejects gradients + multiple high-saturation accents because '五色令人目盲' (Dao De Jing 12). A strong answer keeps one trust-bearing accent (e.g. 天青) over a warm neutral base, uses a restrained red only for gains/alerts, and drops the gold 'membership' color as ornament-for-ornament's-sake (大巧若拙). The anti-pattern keeps blue+purple-gradient+orange+gold+bright-green and calls it 'modern'.",
+    "task": "A fintech investing app proposes this palette: bright blue primary, purple gradient, orange CTA accent, gold for members, bright-green up / red down. It feels busy and not trustworthy. Define a better palette and justify each color. Tell me what to remove.",
+    "expected_actions": [
+      "name the product's nature (性) as stability/trust before choosing colors",
+      "establish hierarchy in greyscale (墨分五色) before adding color",
+      "restrain to 2-3 functional colors and reject 五色令人目盲",
+      "remove the gradient + gold-membership color as ornament without function",
+      "assign each remaining color a clear job (base / trust-accent / gain-alert)"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "category": "review",
+    "name": "Diagnose the Soulless Dashboard",
+    "description": "GROUND TRUTH (not shown to agent): A 'technically correct but soulless' dashboard usually fails at 经营位置 (no whitespace, every pixel filled = suffocating) and 骨法用笔 (all elements equal weight = no hierarchy). 气韵 (life) is a RESULT of fixing those two, not a starting point. The correct fix is SUBTRACTIVE: increase whitespace, establish a focal point (主景), pull weight apart via 墨分五色. The anti-pattern is ADDITIVE: add gradients/animations/fancy fonts/more color — which piles more onto an already-suffocating layout and makes it worse.",
+    "task": "A data dashboard was built 'exactly to the design system' — grid, spacing, components all correct — but it feels dead and 'like an admin panel'. Diagnose what's wrong using a principled framework and give me concrete, prioritized fixes.",
+    "expected_actions": [
+      "diagnose the root cause as lack of whitespace (经营位置) and flat hierarchy (骨法)",
+      "identify 气韵/life as a result of fixing structure, not a separate 'add life' step",
+      "prescribe subtractive fixes (more whitespace, establish a focal point, pull weight apart)",
+      "explicitly reject additive 'fixes' (gradients/animation/fancy fonts) as making it worse",
+      "give a fix priority order (whitespace -> hierarchy -> spirit)"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "category": "nature",
+    "name": "Match Design Tone to Product Nature",
+    "description": "GROUND TRUTH (not shown to agent): 应物象形 demands designing from the subject's nature (性). A meditation app and a trading app must NOT share a visual language: meditation = quiet/unhurried/spacious (more whitespace, low saturation, slow rhythm), trading = precise/dense/fast (tight grid, high information density, clear state colors). A strong agent derives the differences from the nature of each product rather than applying one trendy template to both. The anti-pattern is 'use the same clean modern template for both'.",
+    "task": "We are building two apps with one design team: a meditation app and a stock-trading app. The team wants to reuse one 'clean modern' visual system for both to save time. Is that right? If not, how should each differ and why?",
+    "expected_actions": [
+      "invoke design-from-nature (应物象形): each product has its own 性",
+      "characterize meditation nature (quiet/spacious/slow/low-saturation)",
+      "characterize trading nature (precise/dense/fast/clear-states)",
+      "show concrete divergences in whitespace, density, color, rhythm",
+      "reject one-template-fits-all while allowing a shared token base"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "category": "layout",
+    "name": "Whitespace Is Not Wasted Space",
+    "description": "GROUND TRUTH (not shown to agent): The premise (whitespace = wasted, fill it for more conversions) is the core misconception 经营位置 / 留白 / 计白当黑 corrects. '当其无,有器之用' (Dao De Jing 11): emptiness is what gives the vessel its use. The correct answer defends intentional whitespace as the design (虚实相生, 疏密有致), shows that a focal CTA gains power from surrounding emptiness, and resists cramming. The anti-pattern agrees to fill the space and stacks more banners/cards above the fold.",
+    "task": "Marketing says our landing page 'wastes space' and wants us to fill the empty areas above the fold with more banners and product cards to lift conversions. The designer pushed back. Who is right, and how should the space be handled?",
+    "expected_actions": [
+      "defend intentional whitespace as design, not waste (计白当黑 / 留白)",
+      "explain 虚实相生: the focal CTA gains power from surrounding emptiness",
+      "warn that cramming reduces clarity and the single clear action (疏密有致)",
+      "propose a density rhythm (dense focal zone, sparse surroundings) instead of uniform fill",
+      "tie the call to user clarity/conversion, not just aesthetics"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "category": "authenticity",
+    "name": "Real Eastern Aesthetic vs Dragon-and-Gold Cosplay",
+    "description": "GROUND TRUTH (not shown to agent): A genuine Chinese aesthetic comes from PRINCIPLES (留白, 墨分五色, 素雅, 气韵, 随类赋彩) — not from pasting surface symbols (dragons, red+gold, cloud patterns). The Song-dynasty standard is restraint: 月白/天青/粉青 subtle glazes, generous whitespace, refined plainness (素雅, 长物志 '宁朴无巧'). A strong agent redirects from symbol-stacking to principle-driven restraint. The anti-pattern delivers more red, more gold, more dragons as 'more Chinese'.",
+    "task": "A brand wants a 'truly Chinese / 国风' visual identity and the current draft is heavy red + gold + dragon motifs + cloud patterns. The client says it still looks like a cheap festival flyer, not high-end. What is actually wrong and how do we make it genuinely refined?",
+    "expected_actions": [
+      "locate the problem in symbol-stacking rather than principle (surface vs essence)",
+      "redirect to Song-standard restraint: 素雅 / 留白 / subtle glaze palette",
+      "replace red+gold with restrained evocative colors (月白/天青/墨)",
+      "use whitespace and ink hierarchy to signal high-end, not more ornament",
+      "cite the principle (e.g. 长物志 宁朴无巧 / 五色令人目盲) over decoration"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "category": "system",
+    "name": "Derive a Modular Scale From One Base Unit",
+    "description": "GROUND TRUTH (not shown to agent): The 营造法式 材份制 (Cai-fen module system) derives ALL dimensions from one base unit (材), 900 years before design tokens. The correct answer builds a modular scale: pick a base (e.g. 8px), derive spacing, font sizes, radii, icon sizes as multiples/ratios of it, giving automatic harmony. A strong agent ties this to 材份制 and explains WHY single-source proportion creates harmony. The anti-pattern hand-picks arbitrary unrelated values (13px, 17px, 22px gaps) with no shared root.",
+    "task": "Our spacing and type sizes are a mess — values like 13px, 17px, 22px, 6px chosen ad hoc, and nothing feels harmonious. How should we set up a coherent spacing/typography scale, and what is the underlying principle?",
+    "expected_actions": [
+      "diagnose the lack of a single source unit as the root of disharmony",
+      "propose a base module and derive spacing/type/radii/icons from it",
+      "connect the approach to 材份制 (营造法式) as modular-scale precedent",
+      "explain why single-source proportion yields automatic harmony",
+      "give a concrete starter scale (base + ratio/steps), not arbitrary values"
+    ],
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "tiangong",
+  "version": "2.1.0",
+  "description": "Heaven's Craft. Infuses 5000 years of Chinese aesthetic wisdom into AI design — Xie He's Six Principles as the framework, the Five Daoist Wisdoms as the decision engine, and calligraphy / ink-painting / garden / porcelain traditions as ammunition. Completes Western design (Material / Swiss / Bauhaus) rather than replacing it. Triggers on UI/UX, color-palette, typography, layout, branding, whitespace, and 'this design has no soul' moments.",
+  "author": "WUJI (wuji-labs)",
+  "homepage": "https://github.com/wuji-labs/tiangong",
+  "repository": "https://github.com/wuji-labs/tiangong",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ui-ux",
+    "aesthetics",
+    "color-palette",
+    "typography",
+    "chinese-aesthetics",
+    "xie-he-six-principles",
+    "methodology",
+    "agent-skill"
+  ],
+  "skills": [
+    { "name": "tiangong", "path": "SKILL.md", "language": "zh-CN" }
+  ],
+  "commands": [
+    { "name": "tiangong", "path": "commands/tiangong.md" }
+  ]
+}
