@@ -1,5 +1,11 @@
 # 天工 TianGong — Heaven's Craft
 
+<p align="center">
+  <a href="https://www.skills.sh/wuji-labs/tiangong"><img src="https://www.skills.sh/b/wuji-labs/tiangong" alt="skills.sh"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://github.com/wuji-labs/huaxia-skills"><img src="https://img.shields.io/badge/%E5%8D%8E%E5%A4%8F%E5%8D%81%E5%A4%A7-HuaXia%20Skills-c1272d" alt="HuaXia Skills"></a>
+</p>
+
 > 中文版见 [README.zh-CN.md](README.zh-CN.md)
 
 > **天地有大美而不言** — Heaven and earth possess great beauty but do not speak of it.
