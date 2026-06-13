@@ -1,5 +1,7 @@
 # 天工 TianGong — 天工开物
 
+**[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
+
 > **天地有大美而不言** — 天地有大美却不言说。(《庄子·知北游》)
 
 **你的 AI 只用半块调色板设计。把另一半交给它。**
