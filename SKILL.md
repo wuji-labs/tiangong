@@ -1,6 +1,20 @@
 ---
 name: tiangong
-description: 把华夏五千年美学转为 AI 设计的方法论唯一真源——以谢赫六法(气韵生动/骨法用笔/应物象形/随类赋彩/经营位置/传移模写)为框架,五智(道法自然/大巧若拙/器以载道/天人合一/中庸之道)为决策机,书法/水墨/园林/瓷器四传统为弹药。当任务涉及 UI/UX 设计、视觉创作、配色、排版、版式构图、品牌视觉、留白与空间、设计评审、"把它做好看一点"、为何这版设计没灵魂、想跳出 Material/Swiss/Bauhaus 的千篇一律时,应自动加载。触发关键词:设计、design、UI、UX、配色/color palette、排版/typography、版式/layout、留白/whitespace、视觉层次、品牌/branding、好看/美观/有质感、太死板/没灵魂/soulless、东方美学/中式/国风、宋代美学、气韵、design review、视觉评审。反触发:纯后端逻辑、数据库 schema、与视觉/审美无关的算法或事实问答——这些不必动用本 skill。
+description: >-
+  Infuses 5,000 years of Chinese aesthetics into AI design — using Xie He's Six
+  Principles (气韵生动 spirit-resonance / 骨法用笔 / 应物象形 / 随类赋彩 / 经营位置 /
+  传移模写) as the framework and Five Wisdoms (道法自然 / 大巧若拙 / 器以载道 /
+  天人合一 / 中庸之道) as the decision engine, so designs gain life, restraint, and
+  qi-resonance instead of generic Material/Swiss/Bauhaus uniformity. Activates
+  when: doing UI/UX, layout, posters, branding or visual work; choosing a color
+  palette; setting typography or visual hierarchy; allocating whitespace and
+  space; running a design review; diagnosing why a design "has no soul"; or any
+  "make it look better / it's missing something" moment. Trigger keywords:
+  design, UI, UX, color palette / 配色, typography / 排版, layout / 版式, whitespace
+  / 留白, visual hierarchy, branding, soulless / 没灵魂, Eastern aesthetics / 中式 /
+  国风, Song-dynasty aesthetics, 气韵, design review. Not for: pure backend logic,
+  database schema, or algorithms / factual questions unrelated to visuals or
+  aesthetics. (谢赫《古画品录》六法 + 道家五智 + 书法/水墨/园林/瓷器四传统)
 version: 2.1.0
 date: 2026-06-02
 authority: WUJI Labs
