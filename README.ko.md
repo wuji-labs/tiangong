@@ -8,6 +8,11 @@
 
 **[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">QR 코드를 스캔하여 작성자 WeChat 추가 · Scan to add the author on WeChat</p>
+
 > **天地有大美而不言** — 천지는 큰 아름다움을 지니되 그것을 말하지 않는다.
 
 **당신의 AI는 절반의 팔레트로 디자인하고 있다. 나머지 절반을 건네주자.**

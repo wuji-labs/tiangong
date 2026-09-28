@@ -8,6 +8,11 @@
 
 **[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">Digitalize para adicionar o autor no WeChat · Scan to add the author on WeChat</p>
+
 > **天地有大美而不言** — O céu e a terra possuem uma grande beleza, mas não a proclamam.
 
 **Sua IA projeta com meia paleta. Dê a ela a outra metade.**

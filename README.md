@@ -9,6 +9,11 @@
 
 **[🇨🇳 简体中文](README.zh-CN.md)** · **[🇺🇸 English](README.md)** · **[🇯🇵 日本語](README.ja.md)** · **[🇰🇷 한국어](README.ko.md)** · **[🇪🇸 Español](README.es.md)** · **[🇧🇷 Português](README.pt.md)** · **[🇫🇷 Français](README.fr.md)**
 
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="Add WUJI on WeChat" width="200">
+</p>
+<p align="center">扫码添加作者微信 · Scan to add the author on WeChat</p>
+
 > 中文版见 [README.zh-CN.md](README.zh-CN.md)
 
 > **天地有大美而不言** — Heaven and earth possess great beauty but do not speak of it.
@@ -140,7 +145,3 @@ MIT — Use freely. Design beautifully.
 
 *天工 TianGong — by [WUJI](https://github.com/wuji-labs)*
 *Heaven's craft opens creation. Design with 5000 years of wisdom.*
-
-## 联系 · Contact
-扫码添加无极微信，交流合作 · Scan to add WUJI on WeChat
-<img src="assets/wechat-qr.png" width="200" alt="WUJI WeChat QR">
